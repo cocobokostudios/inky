@@ -1,4 +1,5 @@
-cd "`dirname "$0"`"
+# cd "`dirname "$0"`"
+# commented out because it jumps me to /bin
 
 # Uses: https://github.com/electron-userland/electron-packager
 # To install it globally:
